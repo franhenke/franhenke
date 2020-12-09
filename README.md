@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer with an eye for UI Design</h3>
 <br>
 
-- 🌱 Since finishing my Web Development Bootcamp at neuefische in August, I’m expanding my knowledge of **React context and useReducer** right now.
+- 🌱 Since finishing my Web Development Bootcamp at neuefische in August, I’ve been expanding my knowledge of **React context, useReducer and Typescript** .
 
-- 🔭 I’m currently working on [notes](https://github.com/franhenke/logbook-capstone-local)
+- 🔭 I’m currently working on [mailbag](https://github.com/franhenke/ts-mail-service)
 
 - 👩🏼‍💻 I am now looking for a position as a Junior Developer or Freelancer. 
 

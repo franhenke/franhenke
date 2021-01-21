@@ -4,11 +4,9 @@
 
 - 🌱 Since finishing my Web Development Bootcamp at neuefische in August, I’ve been expanding my knowledge of **React context, useReducer and Typescript** .
 
-- 🔭 I’m currently working on [mailbag](https://github.com/franhenke/ts-mail-service)
+- 🔭 I’m currently working on [notes](https://github.com/franhenke/notes)
 
-- 👩🏼‍💻 I am now looking for a position as a Junior Developer or Freelancer. 
-
-- 📫 <p align="left"><strong>Connect</strong> with me or learn more: </p> <a href="https://linkedin.com/in/franzisca-henke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="franzisca-henke" height="30" width="40" /></a>
+- 📫 <p align="left"><strong>Connect</strong> with me or learn more: </p> <a href="https://linkedin.com/in/franzisca-henke" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="franzisca-henke" height="30" width="40" /></a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
